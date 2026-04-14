@@ -47,6 +47,16 @@ Due to API quota limitations, this project is configured to run in **Mock Mode**
 
 ---
 
+# Output
+
+![Image 1](i1.png)
+![Image 1](i2.png)
+![Image 1](i3.png)
+![Image 1](i4.png)
+
+---
+
+
 ## 🔧 Running the Project
 
 ### 1. Clone the repository
@@ -56,11 +66,4 @@ git clone https://github.com/your-username/gen-ai-simulation-prompt.git
 cd gen-ai-simulation-prompt
 ---
 
-# Output
 
-![Image 1](i1.png)
-![Image 1](i2.png)
-![Image 1](i3.png)
-![Image 1](i4.png)
-
----

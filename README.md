@@ -56,7 +56,7 @@ git clone https://github.com/your-username/gen-ai-simulation-prompt.git
 cd gen-ai-simulation-prompt
 ---
 
-## Output
+# Output
 
 ![Image 1](i1.png)
 ![Image 1](i2.png)
